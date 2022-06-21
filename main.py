@@ -1,5 +1,6 @@
 # This is a sample Python script.
 #21-06-2022 - testing git
+#21-06-2022 - seconf commit
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
