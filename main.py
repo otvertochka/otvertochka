@@ -2,6 +2,7 @@
 #21-06-2022 - testing git
 #21-06-2022 - seconf commit
 #22-06-2022 - ok
+#06-07-2022 - continue
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
